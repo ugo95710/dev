@@ -1,0 +1,4 @@
+max@gmail.com;abc;CABRIT;Maxime
+soso@gmail.com;ss;GRI;Sotrane
+sujee@gmail.com;jj;MAH;Sujeeban
+Max;CABRIT;x@gmail.com;de
